@@ -4,7 +4,7 @@
 ![SQL](https://github.com/Dreamerol/Dreamerol/blob/07ca6413bab4781d29bd7d183dac98895e4af7aa/SQL.jpg)
 
 
----
+
 
 ## 🔹 Overview
 This repository contains SQL tasks and exercises completed for the **Databases Course at FMI**. It showcases my ability to design **relational schemas, write efficient queries, and manipulate data** for analysis. Projects emphasize **practical application of SQL** for real-world datasets and problem-solving scenarios.

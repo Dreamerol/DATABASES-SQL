@@ -1,6 +1,6 @@
 # 🗄 Databases & SQL Projects
 
-! (https://github.com/Dreamerol/Dreamerol/blob/07ca6413bab4781d29bd7d183dac98895e4af7aa/SQL.jpg)
+![SQL](https://github.com/Dreamerol/Dreamerol/blob/07ca6413bab4781d29bd7d183dac98895e4af7aa/SQL.jpg)
 
 💻 **Tech Stack:** SQL | Data Modeling | ETL  
 

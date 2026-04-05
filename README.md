@@ -37,10 +37,8 @@ This repository contains SQL tasks and exercises completed for the **Databases C
 - Prepared for **junior database, data analyst, or backend SWE roles**
 - Hands-on experience bridging **theoretical knowledge with practical implementation**
 
----
 
-💻 **Tech Stack:** SQL | Data Modeling | ETL  
 
 ---
 
-## ⭐ **Goal:** Build **robust, scalable, and maintainable database solutions** for real-world data analysis and workflows.
+## *⭐ Goal: Build robust, scalable, and maintainable database solutions for real-world data analysis and workflows.*

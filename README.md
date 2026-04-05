@@ -3,7 +3,6 @@
 
 ![SQL](https://github.com/Dreamerol/Dreamerol/blob/07ca6413bab4781d29bd7d183dac98895e4af7aa/SQL.jpg)
 
-💻 **Tech Stack:** SQL | Data Modeling | ETL  
 
 ---
 
@@ -40,4 +39,8 @@ This repository contains SQL tasks and exercises completed for the **Databases C
 
 ---
 
-⭐ **Goal:** Build **robust, scalable, and maintainable database solutions** for real-world data analysis and workflows.
+💻 **Tech Stack:** SQL | Data Modeling | ETL  
+
+---
+
+## ⭐ **Goal:** Build **robust, scalable, and maintainable database solutions** for real-world data analysis and workflows.

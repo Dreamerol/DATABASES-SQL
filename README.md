@@ -44,3 +44,13 @@ This repository contains SQL tasks and exercises completed for the **Databases C
 <h2 align="center">
   <i> ⭐⭐⭐  Goal: Build robust, scalable, and maintainable database solutions for real-world data analysis and workflows. </i>
 </h2>
+
+---
+
+<p align="center">
+  🔗 Explore more on my GitHub profile: 
+  <a href="https://github.com/Dreamerol">github.com/Dreamerol</a>
+</p>
+
+
+

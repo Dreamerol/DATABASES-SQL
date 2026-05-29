@@ -1,6 +1,6 @@
 <h1 align="center">𝗗𝗔𝗧𝗔𝗕𝗔𝗦𝗘𝗦 & 𝗦𝗤𝗟 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦</h1>
 
-<h3 align="center"><em>SQL | Data Modeling | ETL</em></h3>
+<h2 align="center"><em>SQL | Data Modeling | ETL</em></h2>
 
 <br>
 

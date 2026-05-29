@@ -1,8 +1,8 @@
 <h1 align="center">𝗗𝗔𝗧𝗔𝗕𝗔𝗦𝗘𝗦 & 𝗦𝗤𝗟 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦</h1>
 
-<h1 align="center">SQL | Data Modeling | ETL</h1>
+<h2 align="center">SQL | Data Modeling | ETL</h2>
 
-<br>
+
 
 ![SQL](https://raw.githubusercontent.com/Dreamerol/Dreamerol/07ca6413bab4781d29bd7d183dac98895e4af7aa/SQL.jpg)
 

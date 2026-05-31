@@ -4,7 +4,7 @@
 
 
 
-![SQL](https://raw.githubusercontent.com/Dreamerol/Dreamerol/07ca6413bab4781d29bd7d183dac98895e4af7aa/SQL.jpg)
+![SQL](https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/SQL.jpg)
 
 <br>
 

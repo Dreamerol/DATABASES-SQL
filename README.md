@@ -265,7 +265,7 @@ This repository contains SQL tasks and exercises completed for the **Databases C
 
 
 
-<br><br>
+<br>
 
 
 
@@ -279,7 +279,7 @@ This repository contains SQL tasks and exercises completed for the **Databases C
 
 
 
-
+<br>
 
 
 

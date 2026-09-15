@@ -265,11 +265,6 @@ This repository contains SQL tasks and exercises completed for the **Databases C
 
 
 
-<br>
-
-
-
-
 
 <h2 align="center">
   💡  Goal: Build robust, scalable, and maintainable database solutions for real-world data analysis and workflows. </i>

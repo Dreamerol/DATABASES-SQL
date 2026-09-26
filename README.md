@@ -204,6 +204,11 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 
 
+<div align="left">
+
+
+
+<div align="left">
 
 
 
@@ -256,6 +261,17 @@ This repository contains SQL tasks and exercises completed for the **Databases C
 - Practical experience in **relational database design, indexing, and normalization**
 - Prepared for **junior database, data analyst, or backend SWE roles**
 - Hands-on experience bridging **theoretical knowledge with practical implementation**
+
+
+
+
+
+</div>
+
+
+</div>
+
+
 
 
 

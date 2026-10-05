@@ -9,7 +9,21 @@
 </h1>
 
 
-<h1 align="center">SQL | Data Modeling | ETL</h1>
+
+
+
+<h1 align="center">
+     <a href="https://github.com/Dreamerol/CARDFOLIO"
+     title="𝗗𝗔𝗧𝗔𝗕𝗔𝗦𝗘𝗦 & 𝗦𝗤𝗟 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦 — CARDFOLIO • Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • SMG (СМГ) • Sofia • AI Engineer">
+    <b>SQL | Data Modeling | ETL</b>
+  </a>
+</h1>
+
+
+
+
+
+
 
 
 

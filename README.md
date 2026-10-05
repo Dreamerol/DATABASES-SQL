@@ -1,22 +1,15 @@
 
 
 
+<h1 align="center">
+     <a href="https://github.com/Dreamerol/CARDFOLIO"
+     title="𝗗𝗔𝗧𝗔𝗕𝗔𝗦𝗘𝗦 & 𝗦𝗤𝗟 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦 — CARDFOLIO • Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • SMG (СМГ) • Sofia • AI Engineer">
+    <b>𝗗𝗔𝗧𝗔𝗕𝗔𝗦𝗘𝗦 & 𝗦𝗤𝗟 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦</b>
+  </a>
+</h1>
 
-
-
-
-
-
-
-
-
-
-
-
-<h1 align="center">𝗗𝗔𝗧𝗔𝗕𝗔𝗦𝗘𝗦 & 𝗦𝗤𝗟 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦</h1>
 
 <h1 align="center">SQL | Data Modeling | ETL</h1>
-
 
 
 
@@ -24,9 +17,21 @@
 
 
 
+<a href="https://github.com/Dreamerol/AI-STUDIO" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/SQL.jpg"
+    alt="𝗗𝗔𝗧𝗔𝗕𝗔𝗦𝗘𝗦 & 𝗦𝗤𝗟 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦 : Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • SMG (СМГ) • Sofia • AI Engineer • Software Engineer""
+    style="width: 100%; height: auto; display: block;"
+  >
+</a>
 
 
-![SQL](https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/SQL.jpg)
+
+
+
+
+
+
 
 
 
